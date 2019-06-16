@@ -4,6 +4,12 @@
 
 This is a Project of clonig the google website.
 
+
+
+| Example: [Click here to see my deployed solution ==> search for 'db systel'](http://search.clean-full-stuck.com/index.php) |
+| --- |
+
+
 ### Installation
 
 ```
